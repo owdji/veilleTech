@@ -1,0 +1,19 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-ch'
+title = 'Les articles de Omar'
+theme = 'Paper'
+avatar = 'rabbit.png'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  # header social icons
+  twitter = 'owdji_'   
+  linkedin = 'omar-gonin-82076922b' 
+
+  # home page profile
+  avatar = 'https://media.licdn.com/dms/image/D4E03AQHwuTegyuBsdQ/profile-displayphoto-shrink_200_200/0/1698148456567?e=2147483647&v=beta&t=sQoTK0oGIi5DnSRRpNX71Pn1dq1tQnskbl-UPXK-2F8' 
+  name = 'Omar Gonin'
+  bio = '👋 Salut, jaime bien le développent web et le design'

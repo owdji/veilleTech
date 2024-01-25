@@ -1,4 +1,4 @@
-baseURL = 'https://owdji.github.io/veilleTech/'
+baseURL = 'https://hugo-paper.vercel.app/'
 languageCode = 'fr-ch'
 title = 'Les articles de Omar'
 theme = 'Paper'

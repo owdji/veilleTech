@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://owdji.github.io/veilleTech'
 languageCode = 'fr-ch'
 title = 'Les articles de Omar'
 theme = 'Paper'
